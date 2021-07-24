@@ -10,3 +10,4 @@ Day 3: Practice set of Chapter 2, Chapter 3 - Strings, Concatination of strings,
 Day 4: Chapter 3: String functions
 Day 5: Practice set of chp-3
 Day 6: Chapter-4: List, methods of list, Tuples, methods of tuples
+Day 12: Practice set of Chapter:4, Chapter5: Dictionary and sets, Practice set of Chapter5
