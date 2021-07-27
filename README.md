@@ -11,9 +11,8 @@ Day 4: Chapter 3: String functions
 Day 5: Practice set of chp-3
 Day 6: Chapter-4: List, methods of list, Tuples, methods of tuples
 Day 13: (24/07/2021) Practice set of Chapter:4, Chapter5: Dictionary and sets, Practice set of Chapter5
-Day 14: (25/07/2021) Learned how to use branching statements in python (if, else, elif), iterations(while, for), how ranges are used in for loop, how to typecast variables to bool, 
-Functions (declaration, invoking, with arguments), brief about exceptional handling.
-Day 16: (27/07/2021)
+Day 14: (25/07/2021) Learned how to use branching statements in python (if, else, elif), iterations(while, for), how ranges are used in for loop, how to typecast variables to bool, Functions (declaration, invoking, with arguments), brief about exceptional handling.
+Day 16: (27/07/2021) learned about Numpy arrays, why they are preferred over list. Initialization of 1,2,3D arrays. Accessing specific element, row, column. Maths on array(matrix add, sub, mul, div by single number), Matrix multiplication, some functions related to matrix and other maths functions.
 Day 17: (28/07/2021)
 Day 18: (29/07/2021)
 Day 19: (30/07/2021)
