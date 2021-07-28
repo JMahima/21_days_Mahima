@@ -13,7 +13,7 @@ Day 6: Chapter-4: List, methods of list, Tuples, methods of tuples
 Day 13: (24/07/2021) Practice set of Chapter:4, Chapter5: Dictionary and sets, Practice set of Chapter5
 Day 14: (25/07/2021) Learned how to use branching statements in python (if, else, elif), iterations(while, for), how ranges are used in for loop, how to typecast variables to bool, Functions (declaration, invoking, with arguments), brief about exceptional handling.
 Day 16: (27/07/2021) learned about Numpy arrays, why they are preferred over list. Initialization of 1,2,3D arrays. Accessing specific element, row, column. Maths on array(matrix add, sub, mul, div by single number), Matrix multiplication, some functions related to matrix and other maths functions.
-Day 17: (28/07/2021) I learned about Pandas and DataFrames: modules and functions used to download and read files. How to retreive specific data or data from specific row and columns and analyze data.
+Day 17: (28/07/2021) I learned about Pandas and DataFrames: modules and functions used to download and read files. How to retreive specific data or data from specific row and columns and analyze data. Also learned how to query and sort data through Pandas, adding/removing columms in DataFrames etc.
 Day 18: (29/07/2021)
 Day 19: (30/07/2021)
 Day 20: (31/07/2021)
