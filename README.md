@@ -15,6 +15,6 @@ Day 14: (25/07/2021) Learned how to use branching statements in python (if, else
 Day 16: (27/07/2021) learned about Numpy arrays, why they are preferred over list. Initialization of 1,2,3D arrays. Accessing specific element, row, column. Maths on array(matrix add, sub, mul, div by single number), Matrix multiplication, some functions related to matrix and other maths functions.
 Day 17: (28/07/2021) I learned about Pandas and DataFrames: modules and functions used to download and read files. How to retreive specific data or data from specific row and columns and analyze data. Also learned how to query and sort data through Pandas, adding/removing columms in DataFrames etc and brief about grouping and aggregate functions.
 Day 18: (29/07/2021) I learned about merging data files, data visualization in python with matplotlib (line graph, bar graph), and it's various formatting. Also tried them on some of my data for better practice and understanding. Started the python machine learning tutorials.
-Day 19: (30/07/2021) 
+Day 19: (30/07/2021) I watched 4 videos of basics of Machine Learning.
 Day 20: (31/07/2021)
 Day 21: (01/08/2021)
