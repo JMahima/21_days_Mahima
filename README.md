@@ -16,5 +16,5 @@ Day 16: (27/07/2021) learned about Numpy arrays, why they are preferred over lis
 Day 17: (28/07/2021) I learned about Pandas and DataFrames: modules and functions used to download and read files. How to retreive specific data or data from specific row and columns and analyze data. Also learned how to query and sort data through Pandas, adding/removing columms in DataFrames etc and brief about grouping and aggregate functions.
 Day 18: (29/07/2021) I learned about merging data files, data visualization in python with matplotlib (line graph, bar graph), and it's various formatting. Also tried them on some of my data for better practice and understanding. Started the python machine learning tutorials.
 Day 19: (30/07/2021) I watched 4 videos of basics of Machine Learning.
-Day 20: (31/07/2021)
+Day 20: (31/07/2021) I started with Data cleaning- Introduction and need, brief about steps involved.
 Day 21: (01/08/2021)
