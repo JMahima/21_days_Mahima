@@ -17,4 +17,5 @@ Day 17: (28/07/2021) I learned about Pandas and DataFrames: modules and function
 Day 18: (29/07/2021) I learned about merging data files, data visualization in python with matplotlib (line graph, bar graph), and it's various formatting. Also tried them on some of my data for better practice and understanding. Started the python machine learning tutorials.
 Day 19: (30/07/2021) I watched 4 videos of basics of Machine Learning.
 Day 20: (31/07/2021) I started with Data cleaning- Introduction and need, brief about steps involved.
-Day 21: (01/08/2021)
+Day 21: (01/08/2021) I learned about data cleaning in detail process involved and ways to automate the process.
+With this I would like to announce that I completed my 21 days channel. Learned 
