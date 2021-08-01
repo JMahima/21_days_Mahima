@@ -18,4 +18,5 @@ Day 18: (29/07/2021) I learned about merging data files, data visualization in p
 Day 19: (30/07/2021) I watched 4 videos of basics of Machine Learning.
 Day 20: (31/07/2021) I started with Data cleaning- Introduction and need, brief about steps involved.
 Day 21: (01/08/2021) I learned about data cleaning in detail process involved and ways to automate the process.
-With this I would like to announce that I completed my 21 days channel. Learned 
+With this I would like to announce that I completed my 21 days channel. Followed the beginners track to my best.
+Would be proceeding with the project.
